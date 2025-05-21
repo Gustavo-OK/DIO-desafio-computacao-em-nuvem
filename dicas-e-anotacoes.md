@@ -1,4 +1,4 @@
-# ⚙️ Dicas Práticas e Anotações – Criação de Máquina Virtual no Azure
+# Dicas Práticas e Anotações – Criação de Máquina Virtual no Azure
 
 ---
 
@@ -15,14 +15,14 @@
 
 ---
 
-## 🔐 Acesso à VM
+## Acesso à VM
 
 - **Ubuntu:** Acesso via SSH usando o IP público fornecido.
 - **Windows:** Acesso via RDP (Remote Desktop).
 
 ---
 
-## 🧩 Dicas Importantes
+## Dicas Importantes
 
 - **Custo:** Lembre-se de parar ou excluir a VM após o uso para evitar cobranças.
 - **Segurança:** Configure as portas corretamente (ex: 22 para SSH, 3389 para RDP).
@@ -31,7 +31,7 @@
 
 ---
 
-## 📝 Observações Finais
+## Observações Finais
 
 - A interface do Azure é intuitiva, mas há muitas opções – explore com calma.
 - O Azure oferece monitoramento e logs úteis para entender o comportamento da VM.
